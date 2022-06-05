@@ -1,0 +1,34 @@
+#introduction {
+    height: 512px;
+}
+
+.greetings {
+    color: indianred;
+    margin: 0;
+    position: relative;
+    top: 109px;
+}
+
+.myName {
+    font-size: 4rem;
+    color: #ccd6f6;
+    margin: 0;
+    position: relative;
+    top: 112px;
+
+}
+
+.mySkill {
+    font-size: 4rem;
+    color: #a8b2d1;
+    margin: 0;
+    position: relative;
+    top: 118px;
+}
+
+.myIntro {
+    margin: 0;
+    max-width: 640px;
+    position: relative;
+    top: 148px;
+}
