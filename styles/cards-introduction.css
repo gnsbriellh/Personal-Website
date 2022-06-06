@@ -1,34 +1,26 @@
 #introduction {
-    height: 512px;
+    margin: 6rem 0 0;
 }
 
 .greetings {
     color: indianred;
     margin: 0;
-    position: relative;
-    top: 109px;
 }
 
 .myName {
     font-size: 4rem;
     color: #ccd6f6;
-    margin: 0;
-    position: relative;
-    top: 112px;
+    margin: 0.625rem 0 0;
 
 }
 
 .mySkill {
     font-size: 4rem;
     color: #a8b2d1;
-    margin: 0;
-    position: relative;
-    top: 118px;
+    margin: 0.625rem 0 0;
 }
 
 .myIntro {
-    margin: 0;
-    max-width: 640px;
-    position: relative;
-    top: 148px;
+    margin: 2rem 0 0;
+    max-width: 60%;
 }
